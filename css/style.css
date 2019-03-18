@@ -19,7 +19,7 @@ html {
 }
 
 .download-btn-first:hover {
-  background: #234197;
+  background: #7fd9f0;
   color: #fff !important;
 }
 
@@ -29,7 +29,7 @@ html {
 
 .features-btn-first:hover {
   background: #f7f7f7 !important;
-  color: #234197 !important;
+  color: #7fd9f0 !important;
 }
 
 #fh5co-hero-wrapper {
@@ -55,7 +55,7 @@ html {
   opacity: .7;
 }
 .main-navbar-nav .navbar-nav .nav-item a:hover {
-  color: #234197 !important;
+  color: #7fd9f0 !important;
   -webkit-transition: all .33s ease;
   -moz-transition: all .33s ease;
   -o-transition: all .33s ease;
@@ -112,13 +112,13 @@ html {
   font-size: 15px;
   padding: 10px 15px;
   font-weight: 700;
-  color: #234197;
+  color: #7fd9f0;
 }
 .fh5co-hero-inner .features-btn-first {
   font-size: 15px;
   padding: 8px 13px;
   font-weight: 400;
-  background: #234197;
+  background: #7fd9f0;
   color: #fff;
   margin-left: 10px;
 }
@@ -139,7 +139,7 @@ html {
   overflow: hidden;
 }
 .fh5co-advantages-outer .span-perfect {
-  color: #648cff;
+  color: #bee6f0;
   text-transform: uppercase;
   font-size: 27px;
   letter-spacing: 1px;
@@ -165,7 +165,7 @@ html {
   padding-right: 30px;
   position: relative;
   top: 1px;
-  color: #648cff;
+  color: #bee6f0;
 }
 .fh5co-advantages-outer .fh5co-advantages-grid-columns .col-sm-4 .grid-title {
   float: left;
@@ -196,7 +196,7 @@ html {
   padding: 70px;
 }
 .fh5co-slider-outer h1 {
-  color: #648cff;
+  color: #bee6f0;
   text-transform: uppercase;
   font-size: 30px;
   font-weight: 600;
@@ -257,7 +257,7 @@ html {
   position: relative;
 }
 .fh5co-features-outer .sm-6-content h1 {
-  color: #648cff;
+  color: #bee6f0;
   text-transform: uppercase;
   font-size: 25px;
   font-weight: 600;
@@ -413,7 +413,7 @@ html {
   margin-top: 100px;
 }
 .fh5co-reviews-outer > h1 {
-  color: #648cff;
+  color: #bee6f0;
   text-transform: uppercase;
   font-size: 30px;
   font-weight: 600;
