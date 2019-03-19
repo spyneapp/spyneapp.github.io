@@ -3,15 +3,18 @@
 	Twitter: http://twitter.com/fh5co
 	URL: http://freehtml5.co
 */
-@import url("https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700,800");
+/*@import url("https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700,800");
 * {
   margin: 0px;
   padding: 0px;
-  font-family: "Montserrat", "sans-serif";
+  font-family: "Bebas", "sans-serif";
 }
-
-html {
-  overflow-x: hidden;
+*/
+@import url("../fonts/bebas_neue/BebasNeue-Regular.ttf");
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Bebas"
 }
 
 .download-btn-first {
